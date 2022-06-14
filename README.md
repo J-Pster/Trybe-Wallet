@@ -54,8 +54,3 @@ Você pode me encontrar no [LinkedIn][1], ou no [WhatsApp][2].
 <!-- links to your social media accounts -->
 [1]: https://www.linkedin.com/in/joaopster/
 [2]: https://api.whatsapp.com/send?phone=5562992765354&text=Ol%C3%A1%2C%20%C3%A9%20o%20Pster%3F%20Venho%20do%20Github.
-
----
-
-### Créditos e Avisos Legais
-- As funções simulateRequest dentro da pasta ./services/favoriteSongsAPI.js e ./services/userAPI.js foram criadas pela [Trybe](https://www.betrybe.com/), portanto são de direito da mesma.
